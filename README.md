@@ -1,7 +1,7 @@
 
 # STEPin-calculator
 
-
+[![GitInspector](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder               | Description
