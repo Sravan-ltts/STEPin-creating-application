@@ -24,7 +24,7 @@ PS No.     |  Name   | Issuess Raised |Issues Resolved|No Test Cases|Test Case P
 1.  ### To manage time with internship and building and learning the project workflows and github 
          - The challenge was overcome by managing time and starting the day early with tutorals, looking at github accounts for  reference and coding at night after learning from various external sites.
 
-2.  ### To impleent unit test cases for the first time 
+2.  ### To implement unit test cases for the first time 
          - The challenge was overcome by watching tutorials, reffering to L&T platforms like Futureskills.
 
 
