@@ -4,7 +4,7 @@ Calculator : The following application is able to help to perform basic calculat
 1.It is able to perform addition between two numbers. 2. It is able to perform subtraction between two numbers. 3. It is able to perform multiplication between two numbers.4. It is able to perform division between two numbers. 5. It is able to perform modulus between two numbers. 6. It is able to find power of two numbers. 7. It is able to find factorial of one number.
 
 
-Research
+# Research
 Electronic calculators contain a keyboard with buttons for digits and arithmetical operations; some even contain "00" and "000" buttons to make larger or smaller numbers easier to enter. Most basic calculators assign only one digit or operation on each button; however, in more specific calculators, a button can pe…
 Display output
 Calculators usually have liquid-crystal displays (LCD) as output in place of historical light-emitting diode (LED) displays and vacuum fluorescent displays (VFD); details are provided in the section Technical improvements. Large-sized figures are often used to improve readability; while using decimal separator …
