@@ -22,7 +22,7 @@ Calculator : The following application is able to help to perform basic calculat
 
 
 # Who:
-All students in school or college level
+-- All students in school or college level
 
 # What:
 TBD
