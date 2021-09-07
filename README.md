@@ -4,6 +4,8 @@ https://www.code-inspector.com/project/27920/score/svg
 
 https://www.code-inspector.com/project/27920/status/svg
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7ece5e5e0fc340cc92861aa1e9fa688e)](https://www.codacy.com/gh/Sravan-ltts/STEPin-creating-application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan-ltts/STEPin-creating-application&amp;utm_campaign=Badge_Grade)
+
 
 [![Cpp-check](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/cppcheck.yml)
 
