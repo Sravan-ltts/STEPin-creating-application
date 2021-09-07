@@ -21,7 +21,7 @@ Calculator : The following application is able to help to perform basic calculat
 ![SWOT-Sample](Link to Pic)
 
 
-# Who:
+## Who:
  * All students in school or college level
 
 # What:
