@@ -18,23 +18,22 @@ Calculators also have the ability to store numbers into computer memory. Basic c
 Calculator : The following application is able to help to perform basic calculations and helps to do arithmetic operations.It will be able to do following operations :
 1.It is able to perform addition between two numbers. 2. It is able to perform subtraction between two numbers. 3. It is able to perform multiplication between two numbers.4. It is able to perform division between two numbers. 5. It is able to perform modulus between two numbers. 6. It is able to find power of two numbers. 7. It is able to find factorial of one number.
 # SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
-
 
 ## Who:
  * All students in school or college level
 
 # What:
-TBD
+* By using the calculator we can perform the basic calculations easily.
 
 # When:
-TBD
+* The calculator came to usage many years ago .Previously there were other ways to do it.
 
 # Where:
-TBD
+* Schools,colleges and engineering students.
 
 # How:
-TBD
+* The usage of this project is very simple as it is an input output application. The user just needs to type in whatever he or she needs for example, if he or she needs to know the addition of two numbers,then the numbers and the symbol related to operation has to be given as input then output is shown
+
 
 
 # High Level Requirements:
@@ -42,3 +41,5 @@ TBD
 
 # Low level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+
+
