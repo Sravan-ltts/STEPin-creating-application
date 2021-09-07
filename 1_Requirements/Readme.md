@@ -12,6 +12,16 @@ Memory
 Calculators also have the ability to store numbers into computer memory. Basic calculators usually store only one number at a time; more specific types are able to store many numbers represented in variables. The variables can also be used for constructing formulas.
 
 # Cost and Features and Timeline
+The best thing about the project is its free of cost.
+|Feature | Description
+|--------| -----------------------------------------
+|`+`    | Perfoms addition of two numbers by taking the input
+|`-`    | Perfoms subtraction of two numbers by taking the input
+|`*`    | Perfoms multiplication of two numbers by taking the input
+|`/`    | Perfoms division of two numbers by taking the input
+|`$`    | Perfoms modulus of two numbers by taking the input
+|`^`    | Perfoms power of two numbers by taking the input
+|`!`    | Perfoms factorial of number by taking the input
 
 
 # Defining Our System
