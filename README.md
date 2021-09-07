@@ -1,5 +1,11 @@
 
 # STEPin-calculator
+https://www.code-inspector.com/project/27920/score/svg
+
+https://www.code-inspector.com/project/27920/status/svg
+
+
+[![Cpp-check](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/cppcheck.yml)
 
 [![GitInspector](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sravan-ltts/STEPin-creating-application/actions/workflows/gitinspector.yml)
 
