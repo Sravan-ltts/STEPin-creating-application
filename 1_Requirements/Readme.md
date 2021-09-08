@@ -44,12 +44,19 @@ Calculator : The following application is able to help to perform basic calculat
 # How:
 * The usage of this project is very simple as it is an input output application. The user just needs to type in whatever he or she needs for example, if he or she needs to know the addition of two numbers,then the numbers and the symbol related to operation has to be given as input then output is shown
 
-
-
-# High Level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
-
-# Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
-
-
+## Detail Requirements
+### High Level Requirements 
+| ID | Description | Status (Implemented/Future) | 
+| ----- | ----- | ---------|
+| HR01 | User can be able to perform Arthimetic Operations | Implemented | 
+| HR02 | User can be able to Other operations | Implemented |
+### Low level Requirements
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | Permorming Addition | HR01 | Implemented |
+| LR02 | Performing Subtraction | HR01 | Implemented |
+| LR03 | Performing Multiplication | HR01 | Implemented |
+| LR04 | Performing Division | HR01 | Implemented |
+| LR05 | Performing Power | HR02 | Implemented |
+| LR06 | Performing Modulus | HR02 | Implemented |
+| LR07 | Performing Factorial of a number | HR02 | Implemented |
