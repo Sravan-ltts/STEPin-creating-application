@@ -19,7 +19,7 @@ Folder               | Description
 
 PS No.     |  Name   | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------    |---------|----------------|---------------|-------------|--------------
-`99006193` | Sravan  |      X No      |      X No     |     X No    |     X No     
+`99006193` | Sravan  |      X No      |      X No     |     7    |     7     
     
 
 ## Challenges Faced and How Was It Overcome
